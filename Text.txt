@@ -2,3 +2,6 @@ This is my first text file made using git
 FIRST COMMIT DONE SUCCESSFULLY!!!!
 
 Now this is going to be my second commit
+
+Third practice commit
+
