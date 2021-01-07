@@ -12,3 +12,5 @@ Fifth commit
 
 Trying out how to pull files rn. Let's see if i get the hang of this too!!! 
 Edit: adding a commit message cuz i forgot xP
+
+Changed some settings
