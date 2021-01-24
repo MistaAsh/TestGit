@@ -16,3 +16,6 @@ Edit: adding a commit message cuz i forgot xP
 Changed some settings
 
 Making a change here to lesrn how to pull and view message
+
+Updating git once more :)
+Just to make sure  i haven't forgotten this shit
