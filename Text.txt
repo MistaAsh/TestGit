@@ -19,3 +19,5 @@ Making a change here to lesrn how to pull and view message
 
 Updating git once more :)
 Just to make sure  i haven't forgotten this shit
+
+I think i got this shit
